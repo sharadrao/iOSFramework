@@ -1,0 +1,22 @@
+{
+  "name": "iOSFramework",
+  "version": "0.1.0",
+  "summary": "A short description of iOSFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sharadrao/iOSFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sharadrao": "sharadrao80@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/sharadrao/iOSFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "iOSFramework/Classes/**/*"
+}
